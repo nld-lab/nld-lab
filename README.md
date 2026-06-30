@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Nicostar<br><br>I'm a passionate Full-Stack Developer from Togo 🇹🇬, focused on building scalable, maintainable, and user-friendly applications.<br><br>💻 I enjoy working across the entire development lifecycle—from designing intuitive interfaces to developing robust backend systems and databases.<br><br>🚀 What I work with<br>⚡ Java • Spring Boot<br>🌐 JavaScript • TypeScript<br>⚛️ React • Next.js<br>🟢 Node.js • Express<br>🗄️ PostgreSQL • MySQL • Prisma<br>🎨 Figma • UI/UX Design<br>🐳 Docker • Git • GitHub<br>🌱 Currently learning<br>Software Architecture<br>Design Patterns<br>Cloud & DevOps<br>Clean Code & Best Practices<br>🤝 Open to collaborate on<br>Open Source projects<br>Full-Stack Web Applications<br>Backend APIs<br>Developer Tools
+👋 Hi there, I'm Nicostar<br><br>I'm a passionate Full-Stack Developer from Togo 🇹🇬, focused on building scalable, maintainable, and user-friendly applications.<br><br>💻 I enjoy working across the entire development lifecycle—from designing intuitive interfaces to developing robust backend systems and databases.<br><br>🚀 What I work with<br>⚡ Java • Spring Boot<br>🌐 JavaScript • TypeScript<br>⚛️ React • Next.js<br>🟢 Node.js • Express<br>🗄️ PostgreSQL • MySQL • Prisma<br>🎨 Figma • UI/UX Design<br>🐳 Docker • Git • GitHub<br>🌱 Currently learning<br>
 
 
 ## 🌐 Socials:
